@@ -1,1 +1,1 @@
-# wishlist
+# FSRNL-WISHLIST_APP
